@@ -17,3 +17,5 @@
 
 Web3 🌐<br/>
 CryptoCurrency 🍕<br/>
+Data Analysis 🗂️<br/>
+Data Visualization 📊<br/>
