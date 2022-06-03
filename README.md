@@ -15,5 +15,5 @@
 
 ### Interest
 
-Web3 <br/>
-CryptoCurrency <br/>
+Web3 🌐<br/>
+CryptoCurrency 🍕<br/>
