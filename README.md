@@ -7,10 +7,10 @@ Hi there! <img src="https://www.emojiall.com/images/240/skype/1f525.png" width="
 
     Interest
     
-    Web3 🌐<br/>
-    CryptoCurrency 🍕<br/>
-    Data Analysis 🗂️<br/>
-    Data Visualization 📊<br/>
+    Web3 🌐
+    CryptoCurrency 🍕
+    Data Analysis 🗂️
+    Data Visualization 📊
  </div>
 
 <div align=center>
