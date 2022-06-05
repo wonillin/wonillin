@@ -13,9 +13,10 @@ Hi there! <img src="https://www.emojiall.com/images/240/skype/1f525.png" width="
     Data Visualization 📊<br/>
  </div>
 
+<div align=center>
 <h2> ✨ Tech Stack in Study ✨<h2>
 
-<div align=center>
+
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
