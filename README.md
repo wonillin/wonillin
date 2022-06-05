@@ -17,11 +17,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div align=center>
+<p align=center>
   <h1> Interest </h1>
-
     Web3 🌐<br/>
     CryptoCurrency 🍕<br/>
     Data Analysis 🗂️<br/>
     Data Visualization 📊<br/>
-</div>    
+</p>    
