@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I'm WONIL CHOI <img src="https://www.emojiall.com/images/240/skype/1f525.png"/>
+# Hello, I'm WONIL CHOI <img src="https://www.emojiall.com/images/240/skype/1f525.png" width="30px"/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonillin%2Fwonillin&count_bg=%2379C83D&title_bg=%234469DF&icon=mediafire.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
