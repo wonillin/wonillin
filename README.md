@@ -36,9 +36,10 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </div>
 
-<div>
+</br>
+</br>
 [![wonillin GitHub stats](https://github-readme-stats.vercel.app/api?username=wonillin)](https://github.com/wonillin/github-readme-stats)
-</div>
+
 
 
 </div>
