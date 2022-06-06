@@ -39,7 +39,7 @@
 </div>
 
 
-[![wonillin GitHub stats](https://github-readme-stats.vercel.app/api?username=wonillin)](https://github.com/wonillin/github-readme-stats)
+[![wonillin GitHub stats](https://github-readme-stats.vercel.app/api?username=wonillin&theme=tokyonight&show_icons=true)](https://github.com/wonillin/github-readme-stats)
 
 
 
