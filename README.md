@@ -6,7 +6,7 @@
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Wv6QfFk/video.gif" alt="video" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>
   
-# Interest
+#Interest
 ### Web3 🌐</br>
 ### CryptoCurrency 🍕</br>
 ### Data Visualisation 📊</br>
