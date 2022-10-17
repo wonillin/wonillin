@@ -6,14 +6,14 @@
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Wv6QfFk/video.gif" alt="video" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>
   
-# ✨ Interest ✨
+# Interest
 ### Web3 🌐</br>
 ### CryptoCurrency 🍕</br>
 ### Data Visualisation 📊</br>
 ### Data Analysis 🗃️
   
   
-## ✨ Tech Stack in Study ✨
+##Tech Stack in Study
 
 <div>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
@@ -28,7 +28,7 @@
 
 </div>
 
-## ✨ Cowork tools ✨
+## Cowork tools
 
 <div>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
