@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # Hello, I'm WONIL CHOI <img src="https://www.emojiall.com/images/240/skype/1f525.png" width="30px"/>
 
