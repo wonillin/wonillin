@@ -27,7 +27,7 @@
 
 </div>
 
-## Coworks tools
+## Cowork tools
 
 <div>
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Slack&logoColor=white"/>
