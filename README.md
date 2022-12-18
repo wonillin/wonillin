@@ -13,7 +13,6 @@
 #### Data Visualisation 📊</br>
 #### Data Analysis 🗃️
 #### Web3 🌐</br>
-#### CryptoCurrency 🍕</br>
 
   
   
