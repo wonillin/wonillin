@@ -7,7 +7,8 @@
 
 
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/Wv6QfFk/video.gif" alt="video" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>
+![video](https://user-images.githubusercontent.com/80016735/236687471-e157ab15-be73-4ce1-8472-c0c863ec4a10.gif)
+
   
 ## Interest
 #### Data Visualisation 📊</br>
