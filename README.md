@@ -7,7 +7,10 @@
 
 
 
+<!--
 ![video](https://user-images.githubusercontent.com/80016735/236687471-e157ab15-be73-4ce1-8472-c0c863ec4a10.gif)
+-->
+
 
   
 ## Interest
